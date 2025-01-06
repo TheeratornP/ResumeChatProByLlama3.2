@@ -224,7 +224,7 @@ def main():
     ##################################################
     # Section 5: Map Visualization
     ##################################################
-    st.subheader("🗺️ Map of Applicant Locations (With Jitter for Overlaps)")
+    st.subheader("🗺️ Map of Applicant Locations")
     fig_map = px.scatter_mapbox(
         filtered_data,
         lat="Latitude",
@@ -234,7 +234,7 @@ def main():
         color_discrete_sequence=["blue"],
         zoom=5,
         height=500,
-        title="🗺️ Applicant Locations by Preferred Location (Jittered)",
+        title="🗺️ Applicant Locations by Preferred Location",
     )
     fig_map.update_layout(
         mapbox_style="open-street-map",
