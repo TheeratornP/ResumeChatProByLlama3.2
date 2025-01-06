@@ -1,7 +1,7 @@
 ## ResumeChatProByLlama3.2
 This repository contains a streamlined recruitment management platform built using Streamlit. It integrates job posting, detailed application forms, and real-time data management via Google Sheets. The platform features interactive visualizations with Plotly and utilizes Llama 3.2, a local LLM, for secure and on-premise resume analysis, ensuring data privacy for premium users. Below is a preview of the our streamlit app in action.
 
-Before running the code, please ensure the following tools and models are installed:  
+Before running the code, please ensure the following tools are downloaded and run. 
 
 1. **Download following files and put in main streamlit folder**  
    - https://nida365-my.sharepoint.com/:u:/g/personal/6620422014_stu_nida_ac_th/EUDX9nq4KeRDhchm7-ldaPkBdVZwE1pAMeQ9_N_zjp-Nag?e=GQS4zQ 
