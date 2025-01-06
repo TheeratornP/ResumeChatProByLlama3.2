@@ -5,3 +5,10 @@ This repository contains a streamlined recruitment management platform built usi
 <img width="1594" alt="Screenshot 2568-01-06 at 21 55 49" src="https://github.com/user-attachments/assets/3a0048e7-d4c7-4710-9503-cf77af75e076" />
 <img width="1590" alt="Screenshot 2568-01-06 at 21 56 00" src="https://github.com/user-attachments/assets/0b8c66b1-d090-4eea-a760-b7e8c3e248f0" />
 <img width="1595" alt="Screenshot 2568-01-06 at 21 56 17" src="https://github.com/user-attachments/assets/7c4f6c20-5afd-4ed0-915a-cd2f9e05e8c0" />
+### Prerequisites
+Before running the code, please ensure the following tools and models are installed:
+	1.	Install Ollama
+	•	Ollama is required for managing local LLMs.
+	•	Installation Guide: Ollama Installation
+	2.	Pull Required Models
+	•	Use the following commands to download the models:
