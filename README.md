@@ -1,5 +1,5 @@
 ## ResumeChatProByLlama3.2
-##### This repository contains a streamlined recruitment management platform built using Streamlit. It integrates job posting, detailed application forms, and real-time data management via Google Sheets. The platform features interactive visualizations with Plotly and utilizes Llama 3.2, a local LLM, for secure and on-premise resume analysis, ensuring data privacy for premium users. Below is a preview of the our streamlit app in action.
+This repository contains a streamlined recruitment management platform built using Streamlit. It integrates job posting, detailed application forms, and real-time data management via Google Sheets. The platform features interactive visualizations with Plotly and utilizes Llama 3.2, a local LLM, for secure and on-premise resume analysis, ensuring data privacy for premium users. Below is a preview of the our streamlit app in action.
 <img width="1589" alt="Screenshot 2568-01-06 at 21 55 21" src="https://github.com/user-attachments/assets/9f6fbfd3-7992-4172-aadd-dbf61c6ef70c" />
 <img width="1590" alt="Screenshot 2568-01-06 at 21 55 35" src="https://github.com/user-attachments/assets/e74ce225-e766-41f7-a5df-21be3f9b5ad1" />
 <img width="1594" alt="Screenshot 2568-01-06 at 21 55 49" src="https://github.com/user-attachments/assets/3a0048e7-d4c7-4710-9503-cf77af75e076" />
