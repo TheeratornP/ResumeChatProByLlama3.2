@@ -3,11 +3,15 @@ This repository contains a streamlined recruitment management platform built usi
 
 Before running the code, please ensure the following tools and models are installed:  
 
-1. **Install Ollama**  
+1. **Download following files and put in main streamlit folder**  
+   - https://nida365-my.sharepoint.com/:u:/g/personal/6620422014_stu_nida_ac_th/EUDX9nq4KeRDhchm7-ldaPkBdVZwE1pAMeQ9_N_zjp-Nag?e=GQS4zQ 
+   - https://nida365-my.sharepoint.com/:u:/g/personal/6620422014_stu_nida_ac_th/EX1kgodCskFIjJvf9P89bWoBMlsCwTB_74idGKvhVa97kw?e=uzYd2b
+
+2. **Install Ollama**  
    - Ollama is required for managing local LLMs.  
    - Installation Guide: [Ollama Installation](https://ollama.com)  
 
-2. **Pull Required Models**  
+3. **Pull Required Models**  
    - Use the following commands to download the models:  
      ```bash
      ollama pull nomic-embed-text
